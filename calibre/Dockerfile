@@ -7,7 +7,7 @@ LABEL org.freenas.interactive="false" 		\
       org.freenas.web-ui-protocol="http"	\
       org.freenas.web-ui-port=8080		\
       org.freenas.web-ui-path=""		\
-      org.freenas.port-mappings="8080:80/tcp"	\
+      org.freenas.port-mappings="80:8080/tcp"	\
       org.freenas.volumes="[					\
           {							\
               \"name\": \"/calibre\",				\

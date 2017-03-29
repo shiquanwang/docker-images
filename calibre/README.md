@@ -1,3 +1,3 @@
-Calibre container from aptalca/docker-rdp-calibre.
+Calibre container from janeczku/calibre-web.
 
-Please refer to aptalca/docker-rdp-calibre for details.
+Please refer to janeczku/calibre-web for details.
